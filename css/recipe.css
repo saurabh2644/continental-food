@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.R-cards{
+    height: 500px;
+    width: 400px;
+    background-color: aquamarine;
+    border-radius: 22px;
+}
+
+.R-img{
+    width:400px;
+    border-radius: 22px 22px 0 0;
+   
+}
+
+.stars{
+    height:50px;
+    width: 160px;
+    display: block;
+    margin: 0px auto;
+}
+
+.r-title{
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    color:#007a33;
+    margin: 5px;
+}
+
+.r-text{
+    font-size: 15px;
+    color: grey;
+    text-align: center;
+    margin: 10px;
+}
+
+.R-price{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
