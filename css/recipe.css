@@ -3,15 +3,24 @@
     padding: 0;
 }
 
+
+.title{
+    font-size: 44px;
+    color: #007a33;
+    text-align: center;
+    margin: 50px;
+}
 .R-cards{
-    height: 500px;
-    width: 400px;
-    background-color: aquamarine;
+    height: 430px;
+    width: 330px;
+    border: 2px solid transparent;
+    box-shadow: -7px 7px 30px -4px rgba(0,0,0,0.4) ;
     border-radius: 22px;
+    margin: 50px;
 }
 
 .R-img{
-    width:400px;
+    width:330px;
     border-radius: 22px 22px 0 0;
    
 }
@@ -24,7 +33,7 @@
 }
 
 .r-title{
-    font-size: 32px;
+    font-size: 22px;
     font-weight: bold;
     text-align: center;
     color:#007a33;
@@ -42,4 +51,11 @@
     font-size: 24px;
     font-weight: bold;
     text-align: center;
+    margin-top: 20px;
+}
+
+.reciepe-cards{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
