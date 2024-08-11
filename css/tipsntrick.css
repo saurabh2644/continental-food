@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.tips-n-trick{
+    display: flex;
+    justify-content: space-around;
+}
+.tipsntrick-title{
+    font-size: 42px;
+    color: #007a33;
+    font-weight: bold;
+    margin: 50px 30px;
+    display: block;
+}
+.tips-1{
+    height: 500px;
+    width: 500px;
+    background-image: url("./../img/TnT-img-1.avif");
+    margin: 40px 30px;
+    border-radius: 34px;
+    box-shadow:0 10px 15px -1px rgba(0,0,0,1);
+}
+
+.tips-2{
+    height: 500px;
+    width: 500px;
+    background-image: url("./../img/TnT-img-2.avif");
+    margin: 40px 30px;
+    border-radius: 34px;
+    box-shadow:0 10px 15px -1px rgba(0,0,0,1);
+}
+
+.img-descrip{
+    background-color: black;
+    color: white;
+    font-size: 37px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 0 0 34px 34px;
+    position: relative;
+    top: 445px;
+}
