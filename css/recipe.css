@@ -11,8 +11,8 @@
     margin: 50px;
 }
 .R-cards{
-    height: 430px;
-    width: 330px;
+    height: 410px;
+    width: 310px;
     border: 2px solid transparent;
     box-shadow: -7px 7px 30px -4px rgba(0,0,0,0.4) ;
     border-radius: 22px;
@@ -20,14 +20,14 @@
 }
 
 .R-img{
-    width:330px;
+    width:310px;
     border-radius: 22px 22px 0 0;
    
 }
 
 .stars{
-    height:50px;
-    width: 160px;
+    height:30px;
+    width: 100px;
     display: block;
     margin: 0px auto;
 }
@@ -37,7 +37,7 @@
     font-weight: bold;
     text-align: center;
     color:#007a33;
-    margin: 5px;
+    margin: 10px;
 }
 
 .r-text{
@@ -51,7 +51,7 @@
     font-size: 24px;
     font-weight: bold;
     text-align: center;
-    margin-top: 20px;
+    margin: 10px;
 }
 
 .reciepe-cards{

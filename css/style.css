@@ -6,6 +6,8 @@
 
 .nav-bar{
     display: flex;
+    position: fixed;
+    top: 0;
    
 }
 
@@ -28,6 +30,7 @@
     height: 390px;
     width:auto;
     background-image: url("./../img/background-img.jpg");
+    
 }
 
 .bg-descrip{
